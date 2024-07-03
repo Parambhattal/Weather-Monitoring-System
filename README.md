@@ -1,7 +1,7 @@
-Conky configuration file
+Weather Monitoring System
 ========================
 
-This is my Conky configuration files. 
+This is my WMS files. 
 
 ![Conky](https://raw.github.com/zenzire/conkyrc/master/screenshot.png)
 
